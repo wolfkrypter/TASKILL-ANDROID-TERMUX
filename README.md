@@ -7,7 +7,7 @@
 <p>~ $ chmod +u taskill.sh
 <p>~ $ mv taskill.sh /data/data/com.termux/files/usr/bin</p>
 
-  <h3>EJECUCIÓN:<h3/>
+  <h3>EJECUCIÓN:</h3>
     
 <p>~ $ taskill.sh</p>
     
