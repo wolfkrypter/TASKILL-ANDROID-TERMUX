@@ -8,7 +8,9 @@
 <p>~ $ mv taskill.sh /data/data/com.termux/files/usr/bin</p>
 
   <h3>EJECUCIÓN:<h3/>
+    
 <p>~ $ taskill.sh</p>
+    
 <h3>DESINSTALACIÓN:</h3>
 <p>~ $ rm -r /data/data/com.termux/files/usr/bin/taskill.sh</p>
 <p>~ $ cd</p>
