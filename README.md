@@ -1,2 +1,2 @@
 # TASKILL-ANDROID-TERMUX
-<p>Forzar la detención de los aplicativos de su sistema operativo mediante la consola linux.</p>
+<p>TASKILL-ANDROID-TERMUX forza la detención de los aplicativos de su sistema operativo mediante termux y depuración inalámbrica.</p>
