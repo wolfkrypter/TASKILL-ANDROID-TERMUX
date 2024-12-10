@@ -5,12 +5,12 @@
 <h3>INSTALACIÓN:</h3>
 <p>~ $ git clone https://github.com/wolfkrypter/TASKILL-ANDROID-TERMUX.git</p>
 <p>~ $ cd TASKILL</p>
-<p>~ $ chmod +u taskill.sh
-<p>~ $ mv taskill.sh /data/data/com.termux/files/usr/bin</p>
+<p>~ $ chmod +x taskill
+<p>~ $ mv taskill /data/data/com.termux/files/usr/bin</p>
 
   <h3>EJECUCIÓN:</h3>
     
-<p>~ $ taskill.sh</p>
+<p>~ $ taskill</p>
     
 <h3>DESINSTALACIÓN:</h3>
 <p>~ $ yes | rm -r /data/data/com.termux/files/usr/bin/taskill.sh</p>
