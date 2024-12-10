@@ -13,7 +13,7 @@
 <p>~ $ taskill</p>
     
 <h3>DESINSTALACIÓN:</h3>
-<p>~ $ yes | rm -r /data/data/com.termux/files/usr/bin/taskill.sh</p>
+<p>~ $ yes | rm -r /data/data/com.termux/files/usr/bin/taskill</p>
 <p>~ $ cd</p>
 <p>~ $ rm -r TASKILL-ANDROID-TERMUX</p>
 
